@@ -1,6 +1,12 @@
+<div align="center">
+
 # 草率手寫體 Type Jam
 
+[https://typejam.justfont.com/](https://typejam.justfont.com/)
+
 ![typejam](typejam.jpg)
+
+</div>
 
 「草率手寫體」為 justfont 提出的群眾字型創作計畫，透過 2026 草率季觀眾接力手寫製成。
 字型以 SIL Open Font License 1.1 授權釋出，歡迎大家自由應用，並分享給你所有的朋友。
@@ -20,9 +26,9 @@ Type Jam 1.0 was collaboratively written by 342 creators and includes a total of
 
 ### 下載 Download
 
-- 請 [點我](https://github.com/justfont/TypeJam/releases/tag/1.0) 前往下載頁面。
+- 請 [點我](https://github.com/justfont/TypeJam/releases/) 前往下載頁面。
 - 或是點選本頁面右側「Releases」處的最新發行版本。
-- Please [click here](https://github.com/justfont/TypeJam/releases/tag/1.0) to visit the download page.
+- Please [click here](https://github.com/justfont/TypeJam/releases/.0) to visit the download page.
 - Alternatively, click on the latest release under "Releases" on the right side of this page.
 
 ### 使用 Usage
@@ -32,13 +38,14 @@ Type Jam 1.0 was collaboratively written by 342 creators and includes a total of
 
 ## 更新紀錄 Changelog
 
-- `1.0` (2026/4/22)
+- `1.0` (2026/4/24)
     - 初次對外公開。
     - Initial public release.
 
 ## 免費使用、敬請分享 Free to Use, Please Share
 
 **草率手寫體** 由群眾共創而成，並基於 SIL Open Font License 1.1 開源協議授權釋出。
+
 Type Jam is a crowdsourced creation released under the SIL Open Font License 1.1.
 
 您可以放心地：
@@ -87,5 +94,3 @@ Established in 2010, justfont is a Taiwan-based new-generation type design and t
 
 To promote a better understanding of typography, justfont communicates with their audience through articles, events, lessons, free fonts, and more. They released an open-source character set, jf 7000, to help with the production of Traditional Chinese fonts.
 
-
----
