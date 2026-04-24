@@ -71,9 +71,9 @@ For the full license details, please refer to:
 
 ## 特別感謝 Special Thanks
 
-- 柯志杰 [@ButTaiwan](https://github.com/ButTaiwan) 先生發佈之「**手寫字型產生器**」 ：[GitHub Page]([https://github.com/ButTaiwan/genryu-font](https://github.com/ButTaiwan/writemyfont))
+- 柯志杰 [@ButTaiwan](https://github.com/ButTaiwan) 先生發佈之「**手寫字型產生器**」 ：[GitHub Page](https://github.com/ButTaiwan/writemyfont)
 - 所有參與草率手寫體書寫之群眾。
-- Mr. But Ko (@ButTaiwan) for releasing the "writemyfont":[GitHub Page]([https://github.com/ButTaiwan/genryu-font](https://github.com/ButTaiwan/writemyfont))
+- Mr. But Ko (@ButTaiwan) for releasing the "writemyfont":[GitHub Page](https://github.com/ButTaiwan/writemyfont)
 - All the crowdsourced creators who participated in writing Type Jam.
 
 ---
