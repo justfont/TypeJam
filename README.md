@@ -38,7 +38,7 @@ Type Jam 1.0 was collaboratively written by 342 creators and includes a total of
 
 ## 更新紀錄 Changelog
 
-- `1.0` (2026/4/24)
+- `1.0` (2026/4/29)
     - 初次對外公開。
     - Initial public release.
 
