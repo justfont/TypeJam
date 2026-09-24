@@ -19,9 +19,19 @@ Some characters could not be included in this project's final output due to inco
 聯繫我們 Contact us: just@justfont.com
 
 ## 收錄字符 Included Characters
-草率手寫體 1.0 由 342 位創作者共同書寫而成，共收錄 1,513 個字符。收錄字符與創作者清單請見：[https://typejam.justfont.com/](https://typejam.justfont.com/)
+草率手寫體 1.0 由 342 位創作者共同書寫而成，共收錄 1,513 個字符。
 
-Type Jam 1.0 was collaboratively written by 342 creators and includes a total of 1,513 characters. For the full character list and creator roster, please visit: [https://typejam.justfont.com/](https://typejam.justfont.com/)
+Type Jam 1.0 was collaboratively written by 342 creators and includes a total of 1,513 characters. 
+
+2.0 新增在草率書店搜集的 349 字符。
+
+Type Jam 2.0 added 349 glyphs written by visitors and collected at Pretty Fly Books.
+
+收錄字符與創作者清單請見：[https://typejam.justfont.com/](https://typejam.justfont.com/)
+
+For the full character list and creator roster, please visit: [https://typejam.justfont.com/](https://typejam.justfont.com/)
+
+
 ## 下載與使用 Download & Usage
 
 ### 下載 Download
@@ -38,9 +48,12 @@ Type Jam 1.0 was collaboratively written by 342 creators and includes a total of
 
 ## 更新紀錄 Changelog
 
-- `1.0` (2026/4/29)
+- `1.0` (2026/04/29)
     - 初次對外公開。
     - Initial public release.
+- `2.0` (2026/09/24)
+    - 新增 349 個字符
+    - Add 349 glyphs.
 
 ## 免費使用、敬請分享 Free to Use, Please Share
 
